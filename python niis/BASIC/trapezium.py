@@ -6,7 +6,7 @@ c=int(input())
 d=int(input())
 print("enter trapezium height")
 h=int(input())
-ar=1/2*a+b*h
+ar=0.5*a+b*h
 pr=a+b+c+d
 print("area=",ar)
 print("perimeter=",pr)
